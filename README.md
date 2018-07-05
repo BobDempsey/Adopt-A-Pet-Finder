@@ -1,5 +1,5 @@
 # pets
 
-Use the PetFinder API to search for your next pet. Uses Vue JS, Vuetify Material UI, Parcel, &amp; Fetch JSONP
+Search for a pet to be adopted in your area using the Pet Finder public data API, Vue JS, Vuetify Material UI, Parcel, & Fetch JSONP.
 
 <a href="http://bobd.me/pets">See this repo in action</a>
